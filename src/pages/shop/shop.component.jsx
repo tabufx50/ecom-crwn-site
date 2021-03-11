@@ -22,7 +22,8 @@ class ShopPage extends React.Component {
                 ))
             }
 
-        </div>)
+        </div>
+        );
         
     }
 }

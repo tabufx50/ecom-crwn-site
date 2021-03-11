@@ -42,7 +42,7 @@ class Directory extends React.Component {
                   }
 
             ]
-        }
+        };
 
     }
 
@@ -54,7 +54,7 @@ class Directory extends React.Component {
                 ))
                 }
             </div>
-        )
+        );
 
     }
 
