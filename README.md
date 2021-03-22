@@ -28,4 +28,4 @@ You can also add and remove items in cart and the total will reflect that.
 ![Screenshot](ecom-stripe-pay.jpg)
 
 ## Live Site
-You can see the site live by clicking <a href="https://crown-clothingv2.herokuapp.com/">Here</a>
+You can see the site live by clicking <a href="https://crown-clothing-17293.web.app/">Here</a>
